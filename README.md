@@ -1,46 +1,44 @@
-# Hi there, I'm Adham Jalaal 👋
+# Hi there, I'm Adham 👋 (`@profadham`)
 
-## 🚀 About Me
-- 💻 Computer Science & Engineering student at GUC
-- 🏆 ICPC Community Student Leader & Problem Setter
-- ⚡ Passionate about C++, Python, Systems Integration, and Competitive Programming
+## 👨‍💻 About Me
 
-## 🛠️ Tech Stack & Tools
-- **Languages:** C++, Python, Java, C
-- **Systems & Graphics:** OpenGL, CMake, AVR Microcontrollers, Raspberry Pi Pico (RP2040)
-- **Web & Backend:** FastAPI, Node.js, Flask, PostgreSQL, webMethods
+* 🎓 **Computer Science & Engineering** Student at German University in Cairo (GUC)
+* 💼 **System Integration Intern** at **700apps** — working with enterprise middleware, REST APIs, and backend system orchestration
+* 🏆 **ICPC Community Student Leader** & Problem Setter — coaching teams, building curricula, and demystifying complex algorithms
+* 💻 **Software & Systems Engineer** passionate about agentic AI systems, graphics engines, and low-level software architecture
+* 📐 **Math & CS Educator** dedicated to helping peers master advanced problem-solving skills
 
----
+## 🛠️ Tech Stack & Skills
 
-## 📂 Featured Repositories
-### [w25-Pupils-Plan-Brute-Force](https://github.com/profadham/w25-Pupils-Plan-Brute-Force)
-- **Description:** codes that were discussed in the brute force sessions
-- **Primary Language:** `Java` | ⭐ **Stars:** 1
+| Domain | Tech / Tools |
+| :--- | :--- |
+| **Languages** | `C++`, `Python`, `Java`, `C`, `Dart`, `SQL`, `Bash` |
+| **Backend & AI** | `FastAPI`, `Flutter`, `Flask`, `Node.js`, `PostgreSQL`, `Agentic AI` |
+| **Systems & Enterprise** | `webMethods`, `OpenGL`, `CMake`, `AVR Microcontrollers`, `RP2040` |
+| **Developer Tools** | `Git`, `Linux/Unix`, `Docker`, `VS Code` |
 
-### [delta-guardian](https://github.com/profadham/delta-guardian)
-- **Description:** No description provided.
-- **Primary Language:** `Python` | ⭐ **Stars:** 0
+## 🚀 Featured Projects & Focus Areas
 
-### [Suffix_Automaton_Vizualiser](https://github.com/profadham/Suffix_Automaton_Vizualiser)
-- **Description:** No description provided.
-- **Primary Language:** `Mixed` | ⭐ **Stars:** 0
+* 🤖 **[CareerLoop](https://github.com/IslamHesham-Dev/CareerLoop)**
+  An agentic AI platform combining academic records, CMS content, GitHub, LinkedIn, and resume evidence to deliver personalized study support, career guidance, automated job matching, tailored applications, and human-approved actions built with a **Flutter** app and **FastAPI** backend.
 
-### [K-means](https://github.com/profadham/K-means)
-- **Description:** No description provided.
-- **Primary Language:** `Python` | ⭐ **Stars:** 0
+* 🏢 **[HR Management System](https://github.com/Mohamedtamer1265/HR-Management-System)**
+  A enterprise management system designed for streamline HR workflows, user role management, and organizational tracking.
 
-### [codeforces-problem-search](https://github.com/profadham/codeforces-problem-search)
-- **Description:** No description provided.
-- **Primary Language:** `HTML` | ⭐ **Stars:** 0
+* 🥇 **Competitive Programming & Coaching**
+  Authored contest-level problems, conducted university algorithm workshops, and coached teams reaching ICPC regional finals.
 
-### [AlgoVision](https://github.com/profadham/AlgoVision)
-- **Description:** Animation of real graph algorithm on a graph editor
-- **Primary Language:** `JavaScript` | ⭐ **Stars:** 0
+* 🎮 **Graphics & Low-Level Engines**
+  Real-time 3D rendering pipeline implementations using C++ and modern OpenGL.
 
----
+## 📊 GitHub Analytics
 
-## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AdhamJalaal&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdhamJalaal&layout=compact&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=profadham&show_icons=true&theme=radical&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=profadham&layout=compact&theme=radical&hide_border=true" width="48%" />
 </p>
+
+## 🤝 Let's Connect
+
+* 💬 Ask me about **Agentic AI, Systems Integration, Algorithms, C++, OpenGL, or ICPC prep**
+* ⚡ **Fun fact:** I love breaking down complex math and CS proofs into intuitive first principles!
